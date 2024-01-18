@@ -21,5 +21,5 @@ blocks:
       upstream_blocks:
       - extract_and_impute_numbers
       uuid: train_model
-    name: timestamp: 1705600498394
-    uuid: new_pipeline
+    name: timestamp
+    uuid: new_pipeline_1705601199138
