@@ -22,4 +22,4 @@ blocks:
       - extract_and_impute_numbers
       uuid: train_model
     name: timestamp
-    uuid: new_pipeline_1705601199138
+    uuid: new_pipeline_1705681966254
