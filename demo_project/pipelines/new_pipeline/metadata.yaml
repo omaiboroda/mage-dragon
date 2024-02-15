@@ -22,5 +22,5 @@ blocks:
   - extract_and_impute_numbers
   uuid: train_model
 name: new_pipeline
-description: CI/CI timestamp 1705758975936
+description: CI/CI timestamp 15.02.24-1
 uuid: new_pipeline
